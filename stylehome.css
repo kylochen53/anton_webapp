@@ -1,0 +1,14 @@
+.navbar-brand {
+  font-family: 'Roboto', sans-serif; /* Example font family */
+  font-weight: bold; /* Adjust as needed */
+}
+.tagline {
+  font-family: 'Roboto', sans-serif; /* Same font as brand */
+  font-size: 0.8rem;
+  color: #6c757d; /* Optional: Change color to Bootstrap's text-muted */
+}
+
+#carousel_card{
+  height: 1px;
+  width: 1px;
+}
