@@ -55,3 +55,17 @@
   }
 }
 
+.text-light-blue {
+  color: #ADD8E6 !important; /* Light blue color */
+  text-decoration: none; /* Removes underline */
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: auto;
+}
+
+.carousel-container {
+  width: 100vw; /* Full viewport width */
+  max-width: 100%; /* Ensure no overflow */
+}
